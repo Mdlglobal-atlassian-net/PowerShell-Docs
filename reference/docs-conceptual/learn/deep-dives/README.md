@@ -7,7 +7,6 @@ https://powershellexplained.com/
 - [Powershell: Everything you ever wanted to know about the switch statement](https://powershellexplained.com/2018-01-12-Powershell-switch-statement/)
 - [Powershell: Everything you wanted to know about arrays](https://powershellexplained.com/2018-10-15-Powershell-arrays-Everything-you-wanted-to-know/)
 - [Powershell: Everything you wanted to know about hashtables](https://powershellexplained.com/2016-11-06-powershell-hashtable-everything-you-wanted-to-know-about/)
-- [Powershell: Everything you wanted to know about PSCustomObject](https://powershellexplained.com/2016-10-28-powershell-everything-you-wanted-to-know-about-pscustomobject/)
 - [Powershell: Everything you wanted to know about $null](https://powershellexplained.com/2018-12-23-Powershell-null-everything-you-wanted-to-know/)
 - [Powershell: Everything you wanted to know about variable substitution in strings](https://powershellexplained.com/2017-01-13-powershell-variable-substitution-in-strings/)
 - [Powershell: Everything you wanted to know about ShouldProcess](https://powershellexplained.com/2020-03-15-Powershell-shouldprocess-whatif-confirm-shouldcontinue-everything/)
