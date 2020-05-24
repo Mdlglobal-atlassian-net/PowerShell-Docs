@@ -2,7 +2,7 @@
 title: Everything you wanted to know about PSCustomObject
 description: PSCustomObject is a simple way to create structured data.
 ms.date: 05/23/2020
-ms.custom: contributor-KevinMarquette
+ms.custom: contributor=KevinMarquette
 ---
 # Everything you wanted to know about PSCustomObject
 
