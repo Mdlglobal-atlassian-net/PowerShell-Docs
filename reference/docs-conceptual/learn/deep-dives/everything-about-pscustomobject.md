@@ -387,8 +387,8 @@ the bigger picture and be aware of them when you have an opportunity to use them
 something and can find a way to work this into your scripts.
 
 <!-- link references -->
-[powershellexplained.com]: https://powershellexplained.com/
 [original version]: https://powershellexplained.com/2016-10-28-powershell-everything-you-wanted-to-know-about-pscustomobject/
+[powershellexplained.com]: https://powershellexplained.com/
 [@KevinMarquette]: https://twitter.com/KevinMarquette
 [post by Boe Prox]: https://learn-PowerShell.net/2013/08/03/quick-hits-set-the-default-property-display-in-PowerShell-on-custom-objects/
 [formatting file]: https://mcpmag.com/articles/2014/05/13/PowerShell-properties-part-3.aspx
