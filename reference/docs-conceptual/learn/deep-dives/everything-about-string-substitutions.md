@@ -1,6 +1,6 @@
 ---
 title: Everything you wanted to know about variable substitution in strings
-description: PSCustomObject is a simple way to create structured data.
+description: There are many ways to use variables in strings to create formatted text.
 ms.date: 05/23/2020
 ms.custom: contributor-KevinMarquette
 ---
@@ -49,9 +49,9 @@ strings.
 $message = "Hello, $first $last."
 ```
 
-This is where the type of quotes you use on your strings makes a difference. A double quoted string
-allows the substitution but a single quoted string doesn't. There are times you want one
-or the other so you have an option.
+The type of quotes you use around the string makes a difference. A double quoted string allows the
+substitution but a single quoted string doesn't. There are times you want one or the other so you
+have an option.
 
 ## Command substitution
 
@@ -85,14 +85,13 @@ a few variables.
 
 ### Command execution
 
-I kind of glazed over this really quickly a second ago. You can run commands inside a string.
+You can run commands inside a string. Even though I have this option, I don't like it. It gets
+cluttered quickly and hard to debug. I either run the command and save to a variable or use a format
+string.
 
 ```powershell
 $message = "Date: $(Get-Date)"
 ```
-
-Even though I have this option, I don't like it. It gets cluttered quickly and hard to debug. I
-either run the command and save to a variable or use a format string.
 
 ## Format string
 

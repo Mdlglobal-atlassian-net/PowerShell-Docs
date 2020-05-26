@@ -3,7 +3,6 @@
 This folder is a placeholder for content contributed by Kevin Marquette from his blog:
 https://powershellexplained.com/
 
-- [PowerShell: Everything you wanted to know about exceptions](https://powershellexplained.com/2017-04-10-Powershell-exceptions-everything-you-ever-wanted-to-know/)
 - [Powershell: Everything you ever wanted to know about the switch statement](https://powershellexplained.com/2018-01-12-Powershell-switch-statement/)
 - [Powershell: How to create a Standard Library Binary Module](https://powershellexplained.com/2018-08-04-Powershell-Standard-Library-Binary-Module/)
 - [Powershell: Everything you wanted to know about arrays](https://powershellexplained.com/2018-10-15-Powershell-arrays-Everything-you-wanted-to-know/)

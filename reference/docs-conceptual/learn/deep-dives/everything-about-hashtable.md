@@ -1,6 +1,7 @@
 ---
 title: Everything you wanted to know about hashtables
-description: PSCustomObject is a simple way to create structured data.
+description: Hashtables are really important in PowerShell so it's good to have a
+solid understanding of them.
 ms.date: 05/23/2020
 ms.custom: contributor-KevinMarquette
 ---
