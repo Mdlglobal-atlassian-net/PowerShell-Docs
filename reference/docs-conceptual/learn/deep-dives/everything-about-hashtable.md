@@ -1,7 +1,6 @@
 ---
 title: Everything you wanted to know about hashtables
-description: Hashtables are really important in PowerShell so it's good to have a
-solid understanding of them.
+description: Hashtables are really important in PowerShell so it's good to have a solid understanding of them.
 ms.date: 05/23/2020
 ms.custom: contributor-KevinMarquette
 ---
@@ -1017,8 +1016,8 @@ this would go at the beginning but this was written from top to bottom with exam
 everything that came before it.
 
 <!-- link references -->
-[powershellexplained.com]: https://powershellexplained.com/
 [original version]: https://powershellexplained.com/2016-11-06-powershell-hashtable-everything-you-wanted-to-know-about/
+[powershellexplained.com]: https://powershellexplained.com/
 [@KevinMarquette]: https://twitter.com/KevinMarquette
 [hashtables]: /powershell/module/microsoft.powershell.core/about/about_hash_tables
 [arrays]: /powershell/module/microsoft.powershell.core/about/about_arrays
